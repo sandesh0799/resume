@@ -1,5 +1,1 @@
 
-You need to build a dynamic form in Angular where form fields are generated based on data fetched from an
-API. The fields could be of various types (text, number, checkbox, etc.), and you need to implement both
-validation and conditional rendering based on user input.
-• Challenge: How would you implement this in a scalable and maintainable way using reactive forms
